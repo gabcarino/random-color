@@ -1,0 +1,20 @@
+div {
+  margin: 21% auto;
+  display: flex;
+  justify-content: center;
+  /* CENTER ANYTHING */
+}
+
+.btn-click {
+  margin: 5px;
+  color: white;
+  background-color: green;
+  border: none;
+  text-align: center;
+  text-decoration: none;
+  font-family: sans-serif;
+  font-size: 12px;
+  display: inline-block;
+  padding: 7.5px 7.5px;
+  width: 75px;
+}
